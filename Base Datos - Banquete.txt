@@ -1,4 +1,4 @@
-create database banca_ciclo3;
+create database banquete_ciclo3;
 use banca_ciclo3;
 create table cliente(
 id_cliente varchar(15) not null,
